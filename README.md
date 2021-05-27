@@ -1,4 +1,4 @@
-![Jebus Skill template](https://raw.githubusercontent.com/oz4ru/jebus-skill/main/Jebus%20Skill.png)
+![Jebus Skill template](https://raw.githubusercontent.com/oz4ru/jebus-skill/main/Jebus%20Skill%20img.png)
 # Setting
 * 130% difficulty
 * Fastest roads
