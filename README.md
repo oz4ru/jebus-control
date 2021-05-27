@@ -23,7 +23,7 @@ Treasure zone:
 
 Desert zone:
 * Pandoras with gold banned
-* Max 4 dragon utopia
+* 4 dragon utopia
 
 # Installation
 Unzip Jebus Skill.zip into HotA_RMGTemplates folder
