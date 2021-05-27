@@ -24,6 +24,8 @@ Treasure zone:
 * 4x Experimental Shop
 * 3x Griffin Conservatory
 * 3x Red Tower
+* Terrain Wasteland
+* Town Conflux
 
 Desert zone:
 * Pandoras with gold banned
