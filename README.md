@@ -7,4 +7,4 @@ To reduce randomness:
 * "Side" zones are always grass
 * First "side" town after 15k break is always Conflux to allow guaranteed access to Earth/Air Magic
 # Installation
-Unzip Jebus Control.zip into HotA_RMGTemplates folder
+![Download](https://github.com/oz4ru/jebus-control/blob/main/Jebus%20Control.zip) and then unzip Jebus Control.zip into HotA_RMGTemplates folder
