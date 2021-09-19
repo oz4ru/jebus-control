@@ -1,29 +1,10 @@
-![Jebus Skill template](https://raw.githubusercontent.com/oz4ru/jebus-skill/main/Jebus%20Skill%20img.png)
-# Changes
-Starting zone:
-* Creature banks banned
-* Max 1 dragon utopia
-* 2x 7 lvl creature dwelling
-* 3x 6 lvl creature dwelling
-* 4x 5 lvl creature dwelling
-* Pandoras with spells banned
-* 3 starting towns
+![Jebus Control template](https://github.com/oz4ru/jebus-control/blob/main/Jebus%20Control.png)
+# Details
+Inspired by Jebus Cross but modified to allow extensive control play thanks to divided "desert", stronger guards between players and alternative paths for attack.
 
-Treasure zone:
-* Slightly richer
-* Creature dwellings banned
-* Pandoras with spells and creatures banned
-* 6x Dragon hives
-* 5x Wolf Rider Picket
-* 4x Experimental Shop
-* 3x Griffin Conservatory
-* 3x Red Tower
-* Terrain Wasteland
-* Town Conflux
-
-Desert zone:
-* Pandoras with gold banned
-* 4 dragon utopia
-
+To reduce randomness:
+* Jebus Cross zones were splited into smaller chunks to reduce connections randomness
+* "Side" zones are always dirt
+* First "side" town after 15k break is always Conflux to allow guaranteed access to Earth/Air Magic.
 # Installation
-Unzip Jebus Skill.zip into HotA_RMGTemplates folder
+Unzip Jebus Control.zip into HotA_RMGTemplates folder
