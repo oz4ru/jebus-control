@@ -1,6 +1,6 @@
 ![Jebus Control template](https://raw.githubusercontent.com/oz4ru/jebus-control/main/Jebus%20Control.png)
 
-![Jebus Control Example Generation](https://github.com/oz4ru/jebus-control/blob/main/generated.png)
+![Jebus Control Example Generation](https://raw.githubusercontent.com/oz4ru/jebus-control/main/generated.png)
 
 # Details
 Inspired by Jebus Cross but modified to allow extensive control play thanks to divided "desert", stronger guards between players and alternative paths for attack.
