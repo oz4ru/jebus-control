@@ -1,4 +1,4 @@
-![Jebus Control template](https://raw.githubusercontent.com/oz4ru/jebus-control/main/Jebus%20Control.png)
+![Jebus Control template](https://raw.githubusercontent.com/oz4ru/jebus-control/main/Jebus%20Control%20Diagram.png)
 
 ![Jebus Control Example Generation](https://raw.githubusercontent.com/oz4ru/jebus-control/main/generation.png)
 # Details
